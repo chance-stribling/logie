@@ -7,7 +7,7 @@
         <v-btn @click="$router.push('/skills')">Skills</v-btn>
       </v-col>
       <v-col class="text-center">
-        <v-app-bar-title @click="$router.push('/')">Logan Gibson</v-app-bar-title>
+        <h2 class=" font-weight-bold" style=" cursor: pointer; font-family: Palatino, URW Palladio L, serif;" @click="$router.push('/')">Logan Gibson</h2>
       </v-col>
       <v-col class="text-center">
         <v-btn @click="$router.push('/about')">About</v-btn>

@@ -1,6 +1,6 @@
 <template>
-  <div style="min-height: 80vh; width: 100vw; background-color: black" class="px-15 py-5">
-    <h1 class="text-white">Work History</h1>
+  <div style="min-height: 80vh; width: 100vw;" class="background px-15 py-5">
+    <h1 class="text-white font-weight-bold">Work History</h1>
     <v-row class="justify-space-evenly mt-10">
       <v-card
         class="pa-5 bg-grey d-flex flex-row justify-space-between align-center mb-10 rounded-xl elevation-10"
@@ -62,5 +62,9 @@
 .pals {
   height: 250px;
   width: 500px;
+}
+.background{
+  background: url('../assets/images/blackban.jpg');
+  background-size: contain;
 }
 </style>

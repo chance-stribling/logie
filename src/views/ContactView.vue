@@ -1,5 +1,5 @@
 <template>
-  <div style="height: 100vh; width: 100vw; background-color: black" class="px-15 py-5">
+  <div style="height: 80vh; width: 100vw; background-color: black" class="px-15 py-5">
     <h1 class="text-white">Contact Me</h1>
     <v-row>
 

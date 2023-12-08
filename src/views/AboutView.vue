@@ -2,7 +2,7 @@
   <div id="about" class="px-15 py-5" style="min-height: 600px; background-color: white">
     <v-row>
       <v-col class="d-flex flex-column" style="max-width: 50vw">
-        <h1 class="mb-10">About Me</h1>
+        <h1 class="mb-10 font-weight-bold">About Me</h1>
         <p class="mb-5">Hi, I'm Logan!</p>
         <p class="mb-5">
           At 19, I'm on a journey of self-discovery, navigating life's twists and turns with a heart

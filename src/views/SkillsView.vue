@@ -1,6 +1,6 @@
 <template>
-  <div style="height: 80vh; width: 100vw; background-color: black" class="px-15 py-5">
-    <h1 class="text-white mb-5">Skills</h1>
+  <div class="px-15 py-5 background">
+    <h1 class="font-weight-bold text-white mb-5">Skills</h1>
     <v-row>
       <v-col>
         <v-card style="width: 350px; height: 500px" class="bg-white pa-5">
@@ -57,5 +57,11 @@
 li {
   margin-left: 20px;
   margin-bottom: 10px;
+}
+.background{
+  height: 80vh; 
+  width: 100vw; 
+  background: url('../assets/images/chess.jpg'); 
+  background-size: cover;
 }
 </style>
